@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    background-color:#FFFFFF;
+
+
+}
+ img{
+    margin:10px;
+    padding: 0;
+}
+
+
+h1{
+    font-family: "Space Mono", monospace;
+    font-style: normal;
+    font-size: medium;
+    margin-top: 10px;
+}
+
+.collapse {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.block1 {
+    background-color:#100F0F;
+    color: rgb(255, 255, 255);
+    font-family: "Space Grotesk", sans-serif;
+    font-style:normal;
+    text-align:left;
+}
+.col-lg-6{
+font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.block2{
+    background-image: url(./image2/bg-image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.block2-text{
+    display: flex;
+    color: black;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size:medium;
+    
+
+
+}
+
+.block3{
+    height:auto;
+    background-color:#D2D2D2;
+
+}
+
+.block5{
+    background-color: black;
+    padding:10px;
+}
+.block5 .progress{
+    margin: 20px;
+    width:200px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#FFFFFF;
+}
